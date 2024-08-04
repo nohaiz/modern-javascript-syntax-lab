@@ -108,7 +108,7 @@ if (pizza === 'tasty') {
 // Your code here
 
 let pizzaGood = pizza === 'tasty' ? 'yum' : 'yuck';
-
+console.log(pizzaGood)
 
 
 // 1. SET LANGUAGE
